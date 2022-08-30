@@ -1,0 +1,72 @@
+.navbar{
+    box-shadow: 0px 0 18px rgb(55 66 59 / 8%);
+}
+
+.log-li:hover{
+    text-decoration:underline;
+}
+
+
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+    
+}
+.nav-link:hover{
+    color: #0094FF;
+    /* text-decoration: underline; */
+    transition: .3s;
+}
+.activ{
+    color: #0094FF;
+}
+
+.btn-primary{
+    background-color: #0094FF;
+    border-color: #0094FF;
+}
+
+.btn-primary:hover{
+    background-color: #2432AF;
+    border-color: #2432AF;
+}
+
+.btn-outline-primary{
+    color: #0094FF;
+    border-color: #0094FF;
+}
+
+.btn-outline-primary:hover{
+    background-color: #0094FF;
+    border-color: #0094FF;
+}
+
+#footer{
+    background-color: black;
+    color: white; 
+}
+#footer .container .row .title .icons a i {
+    color: white;
+}
+#footer .container .row .title .icons a i:hover{
+    cursor: pointer;
+    color:#0094FF;
+}
+#footer .container .row .cont a{
+    text-decoration: none;
+    color: white;
+}
+#footer .container .row .cont a:hover{
+    color: #0094FF;
+}
+
+#footer .container .row .cat a{
+    color:grey;
+    text-decoration: none;
+}
+
+#footer .container .row .cat a:hover{
+    color: white;
+    cursor: pointer;
+}
